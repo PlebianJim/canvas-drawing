@@ -1,0 +1,13 @@
+html,
+body {
+    margin: 0;
+    display: flex;
+}
+
+#draw {
+    border: 1px black solid;
+}
+
+#reset {
+    margin: auto
+}
